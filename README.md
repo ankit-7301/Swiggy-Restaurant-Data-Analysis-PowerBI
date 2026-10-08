@@ -7,7 +7,7 @@ An end-to-end data analysis and Business Intelligence project exploring Swiggy r
 ---
 
 ## 📊 Dashboard Preview
-![Swiggy Analysis Project](dashboard_image.jpg)
+![Swiggy Analysis Project](dashboard_image.png)
 
 ---
 
