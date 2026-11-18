@@ -1,5 +1,3 @@
-# Swiggy-Restaurant-Data-Analysis-PowerBI
-Here is a short, punchy description for your project:  > An interactive Power BI dashboard analyzing **8,680 Swiggy restaurant listings** across India to uncover key trends in pricing, user ratings, popular cuisines, and delivery performance.
 # 🛵 Swiggy Restaurant Data Analysis & Dashboard
 
 An end-to-end data analysis and Business Intelligence project exploring Swiggy restaurant listings, pricing trends, user ratings, delivery times, and geographical distribution across major Indian cities.
